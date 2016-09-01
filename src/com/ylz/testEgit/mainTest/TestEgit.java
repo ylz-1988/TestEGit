@@ -8,5 +8,6 @@ public class TestEgit {
 		System.out.println("第二次提交");
 		System.out.println("第二次修改");
 		System.out.println("第三次提交");
+		System.out.println("和上海市上海市");
 	}
 }
